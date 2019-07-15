@@ -1,0 +1,9 @@
+div.first { float:left;
+   margin-left: 2cm;
+   margin-right: 2cm;
+}
+
+div.second { float:middle;
+   margin-left: 2cm;
+   margin-right: 2cm;
+}
